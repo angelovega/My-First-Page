@@ -5,3 +5,5 @@ Hola. Soy Angelo Vega y esto es un texto de prueba para mi curso de git y GitHub
 Cambios hechos unicamente en el header.
 
 ejemplo de push nf
+
+ejemplo para hacer pull desde fork
